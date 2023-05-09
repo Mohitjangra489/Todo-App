@@ -1,0 +1,43 @@
+#container{
+    display:flex;
+    font-family: 'Hind', sans-serif !important;
+    
+    
+}
+#left{
+   min-height:100vh;
+    width:100%;
+    border: none;
+    background-color: #f1f1f1;
+    padding-left:20px;
+
+}
+#right{
+    min-height:100vh;
+    width:100%;
+
+}
+#input{
+    font-size: 80px;
+    color: #757575;
+    padding-left: 20px;
+   height: 140px;
+    width:100%;
+    border: 0px solid;
+    /* background-color: transparent; */
+    outline: none;
+    word-break: break-word;
+    position: fixed;
+}
+#task{
+    font-size: 50px;
+}
+body{
+    margin: 0px;
+}
+
+#leftpara{
+    height: 20px;
+    word-break: break-word;
+}
+
